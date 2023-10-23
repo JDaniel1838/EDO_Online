@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlataformaEducativa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PlataformaEducativa/dist/PlataformaEducativa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
